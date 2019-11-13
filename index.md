@@ -12,7 +12,7 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
 
 ![Watch Assembled](./assets/img/20171210_144854.jpg)
 
-## Day 1 - Saturday 12/8
+## Day 1 - Saturday 12/7
 
 1. **9:00 AM to 10:00 AM:** Welcome
 1. **10:00 AM to Noon:** Intro & Algorithms
@@ -34,7 +34,7 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
     1. [micro:bit iPod Challenge](./010603_iPod.html)
 1. **4:00 PM to 4:45 PM:** Day 1 Standup
 
-## Day 2 - Sunday 12/9
+## Day 2 - Sunday 12/8
 1. **9:00 AM to 10:00 PM:** Iteration, Looping & Coordinates
     1. [Overview](./020101_Iteration.html)
     1. [Traveling Light](./020102_TravelingLight.html)
