@@ -19,7 +19,7 @@ layout: default
 
 1. Create a new code project if you haven't done so already.
 1. Lets start by adding `on shake` block to your code.
-1. Next lets create a variable called 'hand'. This will hold a number 0, 1 or 2, where a 0 is a rock, a 1 is paper, and a 3 is scissors. 
+1. Next lets create a variable called 'hand'. This will hold a number 0, 1 or 2, where a 0 is a rock, a 1 is paper, and a 2 is scissors. 
 1. In our `on shake` block we need to set the value of hand to our random number (0, 1, or 2) using the `pick random` math block.
 1. Next, we will add an if conditional statment that checks the value of the hand variable.
 1. If hand = 0 then we will display a rock using the LEDs.

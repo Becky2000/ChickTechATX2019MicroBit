@@ -11,7 +11,7 @@ layout: default
 
 [MyMiniFactory](https://www.myminifactory.com/object/3d-print-micro-bit-watch-frame-with-battery-compartment-79577)
 
-## Demo: Our watch frame
+## Demo: 3D Printing
 
 ![Watch Frame](./assets/img/watch-frame.jpg)
 

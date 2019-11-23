@@ -14,7 +14,7 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
 
 ## Day 1 - Saturday 12/7
 
-1. **9:00 AM to 10:00 AM:** Welcome
+1. **9:00 AM to 9:45 AM:** Welcome, Logistics, Icebreaker
 1. **10:00 AM to Noon:** Intro & Algorithms
     1. [Warmup](./010201_Warmup.html)
     1. [micro:bit Hardware](./010202_HardwareOverview.html)
@@ -48,14 +48,15 @@ BBC micro:bit maker kit and custom creation, a multi-funciton micro:bit watch
     1. [Sorting Arrays](./020302_Sorting.html)
     1. [Magic 8 Ball](./020303_8Ball.html)
 1. **Noon to 1:00 PM:** Lunch    
-1. **1:00 PM to 3:00 PM:** Watch
+1. **1:00 PM to 3:15 PM:** Watch
     1. [Watch Assembly](./020402_Assembly.html)
     1. [Watch Software](./020401_Watch.html)
     1. [Pedometer Challenge](./020403_Pedometer.html)
     1. [Stop Watch Challenge](./020404_Stopwatch.html)
     1. [Compass Challenge](./020405_Compass.html)
-1. **3:00 PM to 3:45 PM:** Day 2 Standup
-1. **3:45 PM to 4:10 PM:** Tech Fair Setup
+1. **3:15 PM to 3:45 PM:** Day 2 Standup
+1. **4:10 PM to 4:20 PM:** Group Photo
+1. **4:20 PM to 5:45 PM:** Tech Show (Open to the Public)
 
 ## Bonus
 [micro:bit Binary Telegraph](./020405_Telegraph.html)
